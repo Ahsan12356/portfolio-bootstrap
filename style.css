@@ -1,5 +1,24 @@
 .headline_section {
-  width: 100vw;
-  height: 100vh;
-  background-image: url('images/contact-form-background-shapes-desktop.png');
+  background-image: url('images/header-shapes-desktop.png');
+  background-size: cover;
+}
+body {
+  background: hsl(0, 0%, 90%);
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-secondary {
+  color: hsl(0, 0%, 90%);
 }
