@@ -2,6 +2,7 @@
   background-image: url('images/header-shapes-desktop.png');
   background-size: cover;
 }
+
 body {
   background: hsl(0, 0%, 90%);
 }
