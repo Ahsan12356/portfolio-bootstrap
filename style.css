@@ -1,0 +1,34 @@
+.headline_section {
+  background-image: url('images/header-shapes-desktop.png');
+  background-size: cover;
+  border-bottom-left-radius: 80px;
+  padding-left: 260px;
+  padding-right: 260px;
+  padding-top: 359px;
+}
+
+body {
+  background: grey;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+ul.social-icons {
+  padding-left: 0;
+  padding-bottom: 257px;
+}
+
+li {
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-secondary {
+  color: hsl(0, 0%, 90%);
+}
